@@ -1,7 +1,7 @@
 # Anjing-CdnEdge
 分布式CDN系统。直面时序审计、运营商级边界断流与特定地域连接黑洞。
 
-# 🛡️ Anjing-CdnEdge: 2026 商业级分布式CDN系统（突防与移动墙抗阻断）
+# 🛡️ Anjing-CdnEdge: 2026 自建分布式CDN系统（突防与移动墙抗阻断）
 
 本仓库为 **Anjing-CdnEdge 分布式 CDN 系统** 的官方功能矩阵展示货架。
 
